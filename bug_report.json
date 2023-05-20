@@ -1,1 +1,12 @@
-
+{ 
+  
+  "Bag report": [
+    "id",
+    "summary",
+    "STR",
+    "AR",
+    "ER",
+    "priority",
+    "attach"
+    ]
+}
