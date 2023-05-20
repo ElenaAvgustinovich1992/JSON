@@ -105,4 +105,12 @@ cat>sklls.json
 git add . && git commit -m "add two files" skills.json 
 preferences.json && git push origin main    
 ```
-## 13. 
+## 13. Create the bug_report.json file at the web interface.
+## 14. Save the changes at the web interface.
+## 15. At the web interface, modify the bug_report.json file and add the bug report in JSON format.
+## 16. Save the changes at the web interface.
+## 17. Synchronize remote and local JSON repository.
+```
+~/Git/JSON    main ⇡1   
+git pull origin main 
+```
